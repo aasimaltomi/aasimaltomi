@@ -28,7 +28,7 @@ An educational platform designed to help students and young people discover and 
 **What I work on:** web development, platform structure, user experience, multilingual content, and continuous product improvement.
 
 - **Repository:** [devmyskilla.github.io](https://github.com/aasimaltomi/devmyskilla.github.io)
-- **Live platform:** [Dunya Al-Dawrat]([(https://devmyskilla.vercel.app/)])
+- **Live platform:** [Dunya Al-Dawrat](https://devmyskilla.vercel.app/)
 
 ### ♻️ Smart Recycling AI-Hub — Contributor
 
