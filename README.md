@@ -32,11 +32,13 @@ An educational platform designed to help students and young people discover and 
 
 ### ♻️ Smart Recycling AI-Hub — Contributor
 
-A university-scale smart recycling prototype that combines computer vision and automation to classify recyclable waste and support automated sorting.
+A smart recycling prototype that uses computer vision to identify recyclable waste and support automated sorting.
+
+**My contribution:** AI development, dataset preparation, model training, testing, and software integration.
 
 **Technologies:** Python · YOLO · OpenCV · Computer Vision · Git/GitHub
 
-- **Repository:** [Smart_Recycle_AI-Hub](https://github.com/Bashar-ALZURAIQI/Smart_Recycle_AI-Hub)
+- **Repository:** [Smart Recycling AI-Hub](https://github.com/Bashar-ALZURAIQI/Smart_Recycle_AI-Hub)
 
 ## Technical Focus
 
